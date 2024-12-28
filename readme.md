@@ -2,6 +2,23 @@ CloudflareSpeedTest v2.2.5
 测试 Cloudflare CDN 所有 IP 的延迟和速度，获取最快 IP (IPv4+IPv6)！
 https://github.com/XIU2/CloudflareSpeedTest
 
+优选域名：
+    time.is
+    icook.hk
+    icook.tw
+    visa.cn
+    www.visa.com
+    www.visa.com.sg
+    www.visa.com.hk
+    www.visa.com.tw
+    www.visa.co.jp
+    fbi.gov
+    russia.com
+    japan.com
+    malaysia.com
+    singapore.com
+    www.shopify.com
+
 参数：
     -n 200
         延迟测速线程；越多延迟测速越快，性能弱的设备 (如路由器) 请勿太高；(默认 200 最多 1000)
