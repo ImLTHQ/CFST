@@ -20,7 +20,7 @@ https://github.com/XIU2/CloudflareSpeedTest
         切换测速模式；延迟测速模式改为 HTTP 协议，所用测试地址为 [-url] 参数；(默认 TCPing)
     -httping-code 200
         有效状态代码；HTTPing 延迟测速时网页返回的有效 HTTP 状态码，仅限一个；(默认 200 301 302)
-    -cfcolo HKG（香港）,KHH（台湾）,NRT（日本）,LAX（洛杉矶）,SEA,SJC,FRA,MAD
+    -cfcolo HKG（香港）,KHH（台湾）,NRT（日本）,LAX（洛杉矶）,SEA,SJC(圣何塞),FRA,MAD
         匹配指定地区；地区名为当地机场三字码，英文逗号分隔，仅 HTTPing 模式可用；(默认 所有地区)
 
     -tl 200
