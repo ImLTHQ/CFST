@@ -1,1 +1,1 @@
-.\CloudflareST.exe -n 800 -o CF.csv -dd -tlr 0
+.\CloudflareST.exe -n 500 -o CF.csv -dd -tlr 0 -t 2
