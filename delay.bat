@@ -1,1 +1,1 @@
-.\CloudflareST.exe -n 500 -o CF.csv -dd -tlr 0 -t 2
+.\CloudflareST.exe -n 666 -o CF.csv -dd -tlr 0 -t 2 -url https://speed.cloudflare.com/__down?bytes=100000000
